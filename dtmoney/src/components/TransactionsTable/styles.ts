@@ -23,7 +23,7 @@ export const Container = styled.div`
         color: var(--text-title);
       }
       &.deposit {
-        color: var(--gren);
+        color: var(--green);
       }
       &.withdraw {
         color: var(--red);
